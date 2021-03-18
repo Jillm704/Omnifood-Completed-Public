@@ -1,2 +1,2 @@
 # Omnifood-Completed-Public
-Omnifood project completed with JavaScript.
+Omnifood project from Jonas Schmedtmann - completed with JavaScript.
